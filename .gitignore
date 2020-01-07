@@ -1,6 +1,13 @@
 network-identifiability/
+CostaSimilarity/
+.idea/
+.ipynb_checkpoints/
+Recon/
+searchcomm/
+small_world/
 
-batch_example_communicability.m
+
+batch_example_communicabiliity.m
 FunctionalMap.m
 jazz.net
 jazz.pkl
@@ -11,4 +18,9 @@ sometry_adjacency_2.m
 sometry_adjacency_brain.m
 sometry_adjacency.m
 test.net
-Z_code_Index.txt
+Z_Code_Index.txt
+celegans_metabolic.net
+cosine_similarity.m
+cossim_analysis_random.m
+degree_similarity.m
+
