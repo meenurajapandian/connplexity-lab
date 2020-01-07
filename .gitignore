@@ -1,1 +1,14 @@
-network-identifiability
+network-identifiability/
+
+batch_example_communicability.m
+FunctionalMap.m
+jazz.net
+jazz.pkl
+karate.pkl
+Plotattempt.m
+searchcomm_analysis.ipynb
+sometry_adjacency_2.m
+sometry_adjacency_brain.m
+sometry_adjacency.m
+test.net
+Z_code_Index.txt
